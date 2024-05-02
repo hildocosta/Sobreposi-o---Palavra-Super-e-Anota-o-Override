@@ -61,3 +61,14 @@ Sobrescrevendo o método withdraw na subclasse SavingsAccount.
  <p align="center">
   <img src="https://github.com/hildocosta/Sobreposi-o---Palavra-Super-e-Anota-o-Override/blob/main/sobrescrever.png">
 </p>
+
+<h3>🧩 Palavra Super </h3>
+
+<p> É possível chamar a implementação da superclasse usando a palavra super.</p>
+
+<h3>Exemplo:</h3>
+<p> Suponha que, na classe BusinnessAccount, a regra para saque seja realizar o saque normalmente da superclasse, e descontar mais 2.0 </p>
+
+ <p align="center">
+  <img src="https://github.com/hildocosta/Sobreposi-o---Palavra-Super-e-Anota-o-Override/blob/main/classe_businnes.png">
+</p>
